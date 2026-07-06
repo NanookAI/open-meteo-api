@@ -2,11 +2,19 @@
   "name": "open-meteo-api",
   "displayName": "Open-Meteo API",
   "description": "Teaches AI agents to fetch weather forecasts, current conditions, historical weather, and air quality with the free Open-Meteo API (no API key required)",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "NanookAI",
     "email": "app030242@gmail.com"
   },
   "homepage": "https://github.com/NanookAI/open-meteo-api",
-  "keywords": ["weather", "forecast", "open-meteo", "climate", "air-quality", "geocoding", "api"]
+  "keywords": [
+    "weather",
+    "forecast",
+    "open-meteo",
+    "climate",
+    "air-quality",
+    "geocoding",
+    "api"
+  ]
 }
